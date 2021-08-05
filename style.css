@@ -11,10 +11,12 @@ body{
   }
   button{
       height:50px;
-      width:80px;      
+      width:80px;  
+      border-radius: 20px;    
   }
   #input{
       height: 50px;
+      border-radius: 20px;
      
   }
   #result
