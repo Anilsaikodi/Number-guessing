@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    background:rgb(216, 112, 52);
+  }
+  #text{
+    text-align:center;
+    size:100px;
+  }
+  h1{
+      padding: 100px ;
+  }
+  button{
+      height:50px;
+      width:80px;      
+  }
+  #input{
+      height: 50px;
+     
+  }
+  #result
+  {
+      font-size:xx-large;   
+      font-weight: bolder;
+      
+  }
