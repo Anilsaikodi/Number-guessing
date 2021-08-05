@@ -7,13 +7,13 @@ body{
     size:100px;
   }
   h1{
-      padding: 100px ;
+      margin-top: 250px;
   }
   button{
       height:50px;
       width:80px;  
       border-radius: 20px;    
-  }
+  } 
   #input{
       height: 50px;
       border-radius: 20px;
@@ -23,5 +23,6 @@ body{
   {
       font-size:xx-large;   
       font-weight: bolder;
+
       
   }
